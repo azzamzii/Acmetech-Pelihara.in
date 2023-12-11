@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "642026531466",
+    "project_id": "peliharain-acmetech",
+    "storage_bucket": "peliharain-acmetech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642026531466:android:967f2048311ffa65d79b73",
+        "android_client_info": {
+          "package_name": "com.acmetech.peliharain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642026531466-6skph43nntjmmnn618o9n9hq5hinl1j8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.acmetech.peliharain",
+            "certificate_hash": "2f690163f2dceae07428be78a5d0920cdd1ced39"
+          }
+        },
+        {
+          "client_id": "642026531466-50ibvp6ir15i7g9jqidg3ks910fv0d2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACQyNpddEdVivAVJgPPHEMNuNKCwbGnEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642026531466-50ibvp6ir15i7g9jqidg3ks910fv0d2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

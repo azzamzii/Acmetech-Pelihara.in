@@ -1,50 +1,50 @@
-Pelihara.in - Cloud Computing Team
-==
-Team Member:
---
-Cloud Computing team is responsible to make API to be used by Mobile app, deploy the back-end, and allocate another resource using GCP. Cloud computing members of Pelihara.in consist of:
-- Azzam Zhafran Imran c151dsx1630@bangkit.academy
-- Vicky Firmansyah c151dsx1596@bangkit.academy
+# Welcome to Acmetech!
 
-API
---
-Pelihara.in apps using 2 kinds of API:
-- **News Pet API** 
-  This API build with some tools:
-  - **Node.js** : JavaScript runtime environment to allows developers to run JavaScript code on the server-side
-  - **Hapi** : Web framework to help build server side REST APIs. Helps on layers of authentication, tokenize, cors, etc.<br>
+<p align="center">
+  <img src="https://github.com/Rjndrkha/Acmetech/assets/75615789/1fbec539-3ab9-40ec-a922-9b655193b2b5" alt="Acmetech Logo">
+</p>
 
-- **ChatBot API** - Contributes to the machine learning path in making it.
-  This API is built with the following tools:
-  - **Python** : A high-level programming language used to consume the model built in Python.
-  - **Flask** : A web framework written in Python used to build REST APIs.
+<center>
+<h2>This repository contains the source code for our amazing project.</h2>
+</center>
 
-  For detailed documentation of the API, refer to the README.md file in each folder of the API.
+# Author
+| Gambar 1                                          | Gambar 2                                          |
+| ------------------------------------------------- | ------------------------------------------------- |
+| <img src="https://github.com/Rjndrkha/Acmetech/assets/75615789/233fb32f-427a-4186-90b4-f3d431614410" width="500px" height="300px"> | <img src="https://github.com/Rjndrkha/Acmetech/assets/75615789/4bff71b4-ef14-4065-866c-0d2bdd6e452a" width="500px" height="300px"> |
 
-Login & Register
---
-<img width="560" alt="image" src="https://github.com/Rjndrkha/Acmetech/assets/88034186/0bfe1186-d72e-4565-bd2b-f4fab35f34ba">
+## 🎥 Video Demonstration
 
-**Firebase Authentication Service**
 
-For login and registration, we use the Firebase Authentication Service. So, when a user wants to create an account or login into our app, 
-the Firebase Authentication securely handles the account creation process and also securely authenticates the user. The code of the 
-authentication is located in the MD site. So, when you want to access it go to MD directory on this repository
 
-Deployment
---
-This is diagram of the cloud architect of Pelihara.in app: <br><br>
-<img width="560" alt="diagrams-cc-github" src="https://github.com/Rjndrkha/Acmetech/assets/88034186/ec6a3173-7373-4e2d-9a1a-ccc37a58062d">
+https://github.com/Rjndrkha/Acmetech/assets/75615789/49be5685-387b-49cd-9fa0-77b2894d20c9
 
-Service that we use:
-1. **Cloud Run** :  Build and deploy scalable containerized apps, this service used so the API can be consumed by the Pelihara.in apps side.
-2. **Firestore** : Fully managed, scalable, and serverless document database. Used for to save data from pet news.
-3. **Cloud Storage** : Managed service for storing unstructured data. Used for save image of pet news.
 
-explanation of cloud architect diagrams:
-1. The News API is deployed on Cloud Run
-2. We utilize Firestore and Cloud Storage to hold the news content as a database and storage
-3. The Chatbot API is deployed on Cloud Run
-4. For the detailed on how to deploy each services, open the README.md for each API
+https://github.com/Rjndrkha/Acmetech/assets/75615789/da76c4b4-fd6e-452a-b780-9c9c9a04e6f4
+
+
+## 📑 Description
+An Android-based mobile application that provides a platform  to improve the public's knowledge about Pet Health through News and ChatBot AI
+
+## 💡 Features
+- Login & Register Firebase
+- ChatBot Edu Pet
+- Pet Care News
+- Clean Code
+
+![Frame 33780](https://github.com/Rjndrkha/Acmetech/assets/75615789/be4de771-e393-4fe3-9d6f-6db961255915)
+
+
+## 📲 Installation
+
+
+# Example Installation Steps
+1. Clone the repository
+   ```bash
+   git clone https://github.com/Rjndrkha/Acmetech.git
+   open file MD -> Peliharain In Android Studio 
+   Run
+
+
 
 
